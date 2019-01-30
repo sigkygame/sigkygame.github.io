@@ -1,17 +1,17 @@
 ## Welcome to Sigky Game
 
 ### Mobile Game Apps Privacy Policy
-### Effective date: January 29, 2019
+#### Effective date: January 29, 2019
 
 This privacy policy governs your use of the mobile game applications (“Apps”) for mobile devices that was developed by My Huynh (“SIGKY GAME”, “we”, “our” or “us”).
 If you choose to use our Apps, then you agree to the collection and use of information in relation with this policy. We will not collect, use or share your information with anyone except as described in this Privacy Policy.
 
-### User Provided Information 
+#### User Provided Information 
 
 When you download and use the Apps, you generally provide (a) your name, email address, age, user name, password and other registration information; (b) transaction-related information, such as when you make purchases, respond to any offers, or download or use Apps from us; (c) information you provide us when you contact us for help; (d) credit card information for purchase and use of the Apps.
 However, we do not collect the defined information. We physically can’t and don’t even have server to store your information. However, we may use your (c) to contact you from time to time to provide you with important information, required notices and marketing promotions.
 
-### Automatically Collected Information 
+#### Automatically Collected Information 
 
 In addition, the Apps do not collect certain information automatically, including the type of mobile device you use, precise information about the location of your mobile device, your mobile devices unique device ID, the IP address of your mobile device, your mobile operating system, the type of mobile internet browsers you use, and information about the way you use the Apps. 
 
