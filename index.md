@@ -1,4 +1,4 @@
-## Welcome to Sigky Game
+## Welcome to Sigky Game Studio
 
 ### Mobile Game Apps Privacy Policy
 #### Effective date: January 29, 2019
@@ -33,7 +33,7 @@ The third-party advertising networks we work with are:
 -	AdMob by Google LLC. For more information on how Google uses the collected information, please visit [Privacy Policy of Google](http://www.google.com/policies/privacy/)
 -	AppLovin – an ad network. You can find Privacy Policy of AppLovin on [this website](https://www.applovin.com/privacy/)
 -	Chartboost – a mobile game monetization platform. For more information on how the collected information, please view [Privacy Policy of Chartboost](https://answers.chartboost.com/en-us/articles/200780269)
--	Heyzap – a mobile advertising company. You can find their Privacy Policy at [Heyzap website] (https://www.fyber.com/legal/heyzap-sdk/)
+-	Heyzap – a mobile advertising company. You can find their Privacy Policy at [Heyzap website](https://www.fyber.com/legal/heyzap-sdk/)
 -	Vungle – an ad network. Their Privacy Policy can be viewed at [Vungle website](https://vungle.com/privacy/)
 
 #### Payments
