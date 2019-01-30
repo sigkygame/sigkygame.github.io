@@ -28,6 +28,7 @@ We do not disclose User Provided Information and Automatically Collected Informa
 ### Advertising
 
 We may work with analytics companies to help us understand how the Apps is being used, such as the frequency and duration of usage. We work with advertisers and third-party advertising networks, who need to know how you interact with advertising provided in the Apps which helps us keep the cost of the Apps low. 
+
 The third-party advertising networks we work with are:
 -	AdMob by Google LLC. For more information on how Google uses the collected information, please visit Privacy Policy of Google at http://www.google.com/policies/privacy/
 -	AppLovin – an ad network. You can find Privacy Policy of AppLovin at https://www.applovin.com/privacy/
@@ -38,11 +39,12 @@ The third-party advertising networks we work with are:
 ### Payments
 
 We may provide paid products and/or services within the Apps. In that case, we use third-party services for payment processing. We will not store or collect your payment card details. The information is provided directly to our third parties who use your personal information is governed by their Privacy Policy. 
+
 The third parties we work with are:
-Apple Store In-App Purchase. Their Privacy Policy can be viewed at https://www.apple.com/legal/privacy/
-Google Play In-App Purchase. Their Privacy Policy can be viewed at https://www.google.com/policies/privacy/
-Amazon In-App Purchasing. Their Privacy Policy can be viewed at https://www.amazon.com/gp/help/customer/display.html?nodeId=201485660
-Windows In-App product purchase. Their Privacy Policy can be viewed at https://privacy.microsoft.com/en-us
+- Apple Store In-App Purchase. Their Privacy Policy can be viewed at https://www.apple.com/legal/privacy/
+- Google Play In-App Purchase. Their Privacy Policy can be viewed at https://www.google.com/policies/privacy/
+- Amazon In-App Purchasing. Their Privacy Policy can be viewed at https://www.amazon.com/gp/help/customer/display.html?nodeId=201485660
+- Windows In-App product purchase. Their Privacy Policy can be viewed at https://privacy.microsoft.com/en-us
 
 ### Link to Other Sites
 
