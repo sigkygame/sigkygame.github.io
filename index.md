@@ -9,7 +9,8 @@ If you choose to use our Apps, then you agree to the collection and use of infor
 #### User Provided Information 
 
 When you download and use the Apps, you generally provide (a) your name, email address, age, user name, password and other registration information; (b) transaction-related information, such as when you make purchases, respond to any offers, or download or use Apps from us; (c) information you provide us when you contact us for help; (d) credit card information for purchase and use of the Apps.
-However, we do not collect the defined information. We physically can’t and don’t even have server to store your information. However, we may use your (c) to contact you from time to time to provide you with important information, required notices and marketing promotions.
+
+We do not collect the defined information. We physically can’t and don’t even have server to store your information. However, we may use your (c) to contact you from time to time to provide you with important information, required notices and marketing promotions.
 
 #### Automatically Collected Information 
 
