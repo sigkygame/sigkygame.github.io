@@ -45,7 +45,7 @@ The third parties we work with are:
 - [Apple Store In-App Purchase](https://www.apple.com/legal/privacy/)
 - [Google Play In-App Purchase](https://www.google.com/policies/privacy/)
 - [Amazon In-App Purchasing](https://www.amazon.com/gp/help/customer/display.html?nodeId=201485660)
-- [Windows In-App product purchase](https://privacy.microsoft.com/en-us)
+- [Windows In-App Product Purchase](https://privacy.microsoft.com/en-us)
 
 #### Link to Other Sites
 
@@ -53,7 +53,7 @@ Our Apps may contain links to third parties. If you click on a third-party link,
 
 #### Children 
 
-We do not use the Apps to knowingly solicit data from or market to children under the age of 13. In the case we discover that a child under 13 has provided us with personal information, we immediately delete it. If a parent or guardian becomes aware that his or her child has provided us with information without their consent, he or she should contact us at sigkygame@gmail.com so that we will be able to do necessary actions. 
+We do not use the Apps to knowingly solicit data from or market to children under the age of 13. In the case we discover that a child under 13 has contacted us with personal information, we immediately delete it. If a parent or guardian becomes aware that his or her child has provided us with information without their consent, he or she should contact us at sigkygame@gmail.com so that we will be able to do necessary actions. 
 
 #### Security
 
