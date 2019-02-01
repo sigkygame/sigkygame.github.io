@@ -65,4 +65,4 @@ This Privacy Policy may be updated from time to time for any reason. We will not
 
 #### Contact us
 
-If you have any questions regarding privacy while using the Application, or suggestions about our practices, please contact us via email at sigkygame@gmail.com.
+If you have any questions regarding privacy while using the Apps, or suggestions about our practices, please contact us via email at sigkygame@gmail.com.
