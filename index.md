@@ -3,7 +3,7 @@
 ### Mobile Game Apps Privacy Policy
 #### Effective date: January 29, 2019
 
-This privacy policy governs your use of the mobile game applications (“Apps”) for mobile devices that was developed by My Huynh (“SIGKY GAME”, “we”, “our” or “us”).
+This privacy policy governs your use of the mobile game applications (“Apps”) for mobile devices that was developed by My Huynh (“Sigky Game”, “we”, “our” or “us”).
 If you choose to use our Apps, then you agree to the collection and use of information in relation with this policy. We will not collect, use or share your information with anyone except as described in this Privacy Policy.
 
 #### User Provided Information 
@@ -45,7 +45,6 @@ The third parties we work with are:
 - [Apple Store In-App Purchase](https://www.apple.com/legal/privacy/)
 - [Google Play In-App Purchase](https://www.google.com/policies/privacy/)
 - [Amazon In-App Purchasing](https://www.amazon.com/gp/help/customer/display.html?nodeId=201485660)
-- [Windows In-App Product Purchase](https://privacy.microsoft.com/en-us)
 
 #### Link to Other Sites
 
