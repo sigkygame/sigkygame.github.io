@@ -3,7 +3,7 @@
 ### Mobile Game Apps Privacy Policy
 #### Effective date: January 29, 2019
 
-This privacy policy governs your use of the mobile game applications (“Apps”) for mobile devices that was developed by My Huynh (“Sigky Game”, “we”, “our” or “us”).
+This privacy policy governs your use of the mobile game applications (“Apps”) for mobile devices that was developed by My Huynh (“Sigky Game”, "Sigky Game Studio", “we”, “our” or “us”).
 If you choose to use our Apps, then you agree to the collection and use of information in relation with this policy. We will not collect, use or share your information with anyone except as described in this Privacy Policy.
 
 #### User Provided Information 
@@ -23,7 +23,7 @@ We do not disclose User Provided Information and Automatically Collected Informa
 - as required by law, such as to comply with a subpoena, or similar legal process;
 -	when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
 -	with our trusted services providers who work on our behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement.
--	if SIGKY GAME is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified on our website of any change in ownership or uses of this information, as well as any choices you may have regarding this information.
+-	if Sigky Game is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified on our website of any change in ownership or uses of this information, as well as any choices you may have regarding this information.
 -	to advertisers and third-party advertising networks and analytics companies as described in the section below.
 
 #### Advertising
